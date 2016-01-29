@@ -1,0 +1,1 @@
+obj-$(S3C2410_ADC) += led-switch.o
